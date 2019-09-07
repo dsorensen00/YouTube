@@ -1,0 +1,10 @@
+.red{
+  color:greenyellow;
+  background-color: brown;
+  padding:25px;
+  margin: 25px;
+  border: solid;
+  border-color: black;
+  border-radius: 10px;
+  text-align: center;
+}
